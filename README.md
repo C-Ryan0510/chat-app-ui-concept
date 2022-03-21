@@ -1,5 +1,5 @@
 # chat-app-ui-concept
-Chat App UI Concept, created using Flutter.
+Chat App UI Concept, created using Flutter (only Frontend).
 
 ![Screenshot](https://user-images.githubusercontent.com/97734029/159207694-3ab785dd-aa07-479e-a949-94b4d3e2ecb8.png)
 
